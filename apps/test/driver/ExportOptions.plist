@@ -6,15 +6,6 @@
 	<false/>
 	<key>destination</key>
 	<string>export</string>
-	<key>manifest</key>
-	<dict>
-		<key>appURL</key>
-		<string>https://kevinbanchik.github.io/apps/test/driver</string>
-		<key>displayImageURL</key>
-		<string>https://github.com/kevinbanchik/kevinbanchik.github.io/blob/master/assets/img/favicon/favicon-16x16.png</string>
-		<key>fullSizeImageURL</key>
-		<string>https://github.com/kevinbanchik/kevinbanchik.github.io/blob/master/assets/img/favicon/android-chrome-512x512.png</string>
-	</dict>
 	<key>method</key>
 	<string>development</string>
 	<key>provisioningProfiles</key>
