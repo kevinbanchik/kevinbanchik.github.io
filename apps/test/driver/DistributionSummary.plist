@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Test Driver.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>91F7DECEEB2B10B86E875E68A9AA2FFE3686F4D9</string>
+				<key>dateExpires</key>
+				<string>29/04/2020</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>T33288P88B.com.magiis.app.test.driver</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>T33288P88B</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Test Driver.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e718e05e-1720-44d4-8266-e3b0cd67e6d5</string>
+				<key>name</key>
+				<string>HX DEV Test Driver</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>T33288P88B</string>
+				<key>name</key>
+				<string>MAGIIS INVESTMENTS LLC</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
